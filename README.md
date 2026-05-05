@@ -4,8 +4,6 @@
 📍 Madrid, Spain
 💡 Interested in **AI systems, data infrastructure, and technology governance**
 
----
-
 ## 🚀 About Me
 
 I’m a multidisciplinary builder working at the intersection of **machine learning systems, data infrastructure, and institutional analysis**.
@@ -22,7 +20,6 @@ I also have a growing interest in **neuroscience and computational neuroscience*
 * 🧠 Computational Neuroscience (emerging interest)
 * 🚀 Applied Innovation
 
----
 
 ## 🧠 Current Focus
 
@@ -31,7 +28,6 @@ I also have a growing interest in **neuroscience and computational neuroscience*
 * 🏥 AI applications in structured + unstructured data ecosystems
 * ⚖️ Institutional and governance implications of AI systems
 
----
 
 ## 🌱 Currently Learning
 
@@ -39,8 +35,6 @@ I also have a growing interest in **neuroscience and computational neuroscience*
 * `React` (frontend fundamentals for full-stack capability)
 * Advanced system design for ML/data pipelines
 * Foundations of **computational neuroscience**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -59,7 +53,6 @@ I also have a growing interest in **neuroscience and computational neuroscience*
 **Tools**
 `Git` `GitHub` `Jupyter` `PyCharm`
 
----
 
 ## 📂 Featured Projects
 
@@ -69,7 +62,6 @@ I also have a growing interest in **neuroscience and computational neuroscience*
 * Explored trade-offs in **batch size, memory usage, and CPU threading**
 * Emphasised reproducibility and system-level performance analysis
 
----
 
 ### 🧠 Healthcare RAG System
 
@@ -82,13 +74,11 @@ I also have a growing interest in **neuroscience and computational neuroscience*
   * LLM-based response generation
 * Evaluated **latency, retrieval quality, and scalability**
 
----
 
 ## 📫 Contact
 
 * 💼 [LinkedIn](https://linkedin.com/in/business-myu)
 
----
 
 ## ⚡ Note
 

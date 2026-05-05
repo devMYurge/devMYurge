@@ -1,111 +1,95 @@
-## Hi there 👋
-
-<!--
-**devMYurge/devMYurge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Miguel Yu
 
-🎓 Dual Bachelor in **Philosophy, Politics, Law & Economics (PPLE)** + **Data & Business Analytics**  
-📍 Madrid, Spain  
-💡 Interested in **AI, data systems, governance, and interdisciplinary innovation**
+🎓 Dual Bachelor in **Philosophy, Politics, Law & Economics (PPLE)** + **Data & Business Analytics**
+📍 Madrid, Spain
+💡 Interested in **AI systems, data infrastructure, and technology governance**
 
 ---
 
 ## 🚀 About Me
 
-I’m a multidisciplinary student combining **technical expertise in AI, data systems, and distributed computing** with a strong foundation in **policy, humanities, and institutional analysis**.
+I’m a multidisciplinary builder working at the intersection of **machine learning systems, data infrastructure, and institutional analysis**.
 
-My work sits at the intersection of:
-- 🤖 Artificial Intelligence & Machine Learning  
-- 📊 Data Analytics & Distributed Systems  
-- 🏛️ Technology Governance & Policy  
-- 🚀 Innovation & Entrepreneurship  
+My focus is on designing and understanding **scalable, real-world systems**, while grounding them in broader questions around **governance, decision-making, and societal impact**.
 
-Currently exploring how **emerging technologies reshape institutions, decision-making, and society**.
+I also have a growing interest in **neuroscience and computational neuroscience**, particularly where it intersects with **learning systems and AI architectures**.
+
+**Core areas:**
+
+* 🤖 Machine Learning & AI Systems
+* 📊 Data Engineering & Distributed Systems
+* ⚖️ Technology Governance & Policy
+* 🧠 Computational Neuroscience (emerging interest)
+* 🚀 Applied Innovation
 
 ---
 
 ## 🧠 Current Focus
 
-- ⚙️ Hardware-aware optimization of ML systems  
-- 🏥 AI applications in healthcare data ecosystems  
-- 📡 Scalable data pipelines & retrieval systems  
-- ⚖️ Governance of AI and institutional change  
+* ⚙️ Hardware-aware optimisation of ML workloads
+* 📡 Scalable data pipelines & retrieval systems (RAG, embeddings)
+* 🏥 AI applications in structured + unstructured data ecosystems
+* ⚖️ Institutional and governance implications of AI systems
+
+---
+
+## 🌱 Currently Learning
+
+* `JavaScript` & `Node.js` (backend systems, APIs, pipelines)
+* `React` (frontend fundamentals for full-stack capability)
+* Advanced system design for ML/data pipelines
+* Foundations of **computational neuroscience**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`Python` `Julia` `SQL` `R`
+**Languages**
+`Python` `SQL` `Julia` `R` *(+ currently learning `JavaScript`)*
 
-**Data & Distributed Systems**  
+**Data & Distributed Systems**
 `PySpark` `Hadoop` `MongoDB` `Data Warehousing`
 
-**Machine Learning**  
+**Machine Learning**
 `scikit-learn` `TensorFlow` `PyTorch` `HuggingFace`
 
-**Systems & Computing**  
+**Systems & Computing**
 `Linux/Unix` `Parallel Computing` `Concurrency` `Cloud`
 
-**Tools**  
+**Tools**
 `Git` `GitHub` `Jupyter` `PyCharm`
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔬 Hardware-Aware ML Training Optimization
-- Built ML workflows in **Julia (Flux.jl)** with focus on performance benchmarking  
-- Analyzed trade-offs across **batch sizes, memory allocation, and CPU threading**  
-- Conducted reproducible experiments on system-level optimization  
+### 🔬 Hardware-Aware ML Training Optimisation
+
+* Built ML workflows in **Julia (Flux.jl)** focused on performance benchmarking
+* Explored trade-offs in **batch size, memory usage, and CPU threading**
+* Emphasised reproducibility and system-level performance analysis
 
 ---
 
 ### 🧠 Healthcare RAG System
-- Developed a **Retrieval-Augmented Generation (RAG)** pipeline  
-- Processed **PDF + tabular healthcare data**  
-- Implemented:
-  - Data ingestion & chunking  
-  - Embeddings & semantic retrieval  
-  - LLM-based response generation  
-- Evaluated **retrieval quality, latency, and scalability**
 
----
+* Developed an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline
+* Processed **PDF + tabular healthcare datasets**
+* Implemented:
 
-## 🌍 Extracurriculars
-
-- IEEE Global AI Systems Initiative — Ethics & societal impact of AI  
-- IE Management x Technology (MxT) — Innovation & entrepreneurship  
-- Governance of Change Club — Tech governance research
+  * Data ingestion & chunking
+  * Embeddings + semantic search
+  * LLM-based response generation
+* Evaluated **latency, retrieval quality, and scalability**
 
 ---
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://linkedin.com/in/business-myu)
+* 💼 [LinkedIn](https://linkedin.com/in/business-myu)
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Note
 
-I enjoy connecting **deep technical systems (ML, distributed computing)** with **big-picture questions about society, governance, and the future of technology**.
-
----
-
-⭐️ *Always open to collaborations in AI, data, and interdisciplinary research.*
-
-
-![Snake animation](https://github.com/devMYurge/devMYurge/blob/output/github-contribution-grid-snake.svg)
+I’m particularly interested in roles/projects where I can **bridge backend systems, ML pipelines, and real-world deployment**, while continuing to grow toward a **full-stack + systems-oriented profile**, with a long-term interest in **learning systems inspired by both AI and neuroscience**.

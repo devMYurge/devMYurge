@@ -1,85 +1,89 @@
-# 👋 Hi, I'm Miguel Yu
+<!--
+  Miguel Yu — GitHub profile README
+  Replace YOUR-GITHUB-USERNAME (3 places) with your actual GitHub handle.
+  Commit this file to a PUBLIC repo named exactly after that handle.
+-->
 
-🎓 Dual Bachelor in **Philosophy, Politics, Law & Economics (PPLE)** + **Data & Business Analytics**
-📍 Madrid, Spain
-💡 Interested in **AI systems, data infrastructure, and technology governance**
+<!-- ============ HEADER BANNER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Miguel%20Yu&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=ML%20systems%20·%20Data%20infrastructure%20·%20Tech%20governance&descSize=16&descAlignY=70" alt="header" />
+</p>
 
-## 🚀 About Me
+<!-- ============ TYPING SUBTITLE ============ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=6C8EEF&center=true&vCenter=true&width=720&lines=Building+at+the+edge+of+ML+and+systems;PPLE+%2B+Data+%26+Business+Analytics+%40+IE;Madrid%2C+Spain" alt="typing" />
+</p>
 
-I’m a multidisciplinary builder working at the intersection of **machine learning systems, data infrastructure, and institutional analysis**.
+<!-- ============ SOCIAL ============ -->
+<p align="center">
+  <a href="https://linkedin.com/in/business-myu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.google.com/maps/place/Madrid"><img src="https://img.shields.io/badge/Madrid%2C%20Spain-111?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
+</p>
 
-My focus is on designing and understanding **scalable, real-world systems**, while grounding them in broader questions around **governance, decision-making, and societal impact**.
+---
 
-I also have a growing interest in **neuroscience and computational neuroscience**, particularly where it intersects with **learning systems and AI architectures**.
+### About
 
-**Core areas:**
+Multidisciplinary builder working at the intersection of **ML systems, data infrastructure, and institutional analysis** — designing scalable real-world systems while staying close to the questions of governance, decision-making, and societal impact they raise. Growing interest in **computational neuroscience**, especially where it meets learning systems and AI architectures.
 
-* 🤖 Machine Learning & AI Systems
-* 📊 Data Engineering & Distributed Systems
-* ⚖️ Technology Governance & Policy
-* 🧠 Computational Neuroscience (emerging interest)
-* 🚀 Applied Innovation
+**Currently focused on**
+- Hardware-aware optimisation of ML workloads
+- Scalable data pipelines and retrieval systems (RAG, embeddings)
+- AI over structured + unstructured data ecosystems
+- Governance implications of deployed AI systems
 
+**Currently learning**  `JavaScript` · `Node.js` · `React` · advanced system design for ML pipelines · foundations of computational neuroscience
 
-## 🧠 Current Focus
+---
 
-* ⚙️ Hardware-aware optimisation of ML workloads
-* 📡 Scalable data pipelines & retrieval systems (RAG, embeddings)
-* 🏥 AI applications in structured + unstructured data ecosystems
-* ⚖️ Institutional and governance implications of AI systems
+### Tech
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,julia,r,js,nodejs,react,tensorflow,pytorch,sklearn,mongodb,postgres,linux,git,github,jupyter&perline=15" />
+</p>
 
-## 🌱 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Warehousing-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/Parallel%20Computing-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-4B5563?style=flat-square&logo=icloud&logoColor=white" />
+</p>
 
-* `JavaScript` & `Node.js` (backend systems, APIs, pipelines)
-* `React` (frontend fundamentals for full-stack capability)
-* Advanced system design for ML/data pipelines
-* Foundations of **computational neuroscience**
+---
 
-## 🛠️ Tech Stack
+### Featured projects
 
-**Languages**
-`Python` `SQL` `Julia` `R` *(+ currently learning `JavaScript`)*
+**Hardware-aware ML training optimisation** — Julia / Flux.jl
+Built ML workflows focused on performance benchmarking; explored trade-offs in batch size, memory, and CPU threading; emphasised reproducibility and system-level analysis.
 
-**Data & Distributed Systems**
-`PySpark` `Hadoop` `MongoDB` `Data Warehousing`
+**Healthcare RAG system** — Python / LLMs
+End-to-end Retrieval-Augmented Generation pipeline over PDF + tabular healthcare datasets. Ingestion and chunking, embeddings + semantic search, LLM-based response generation, evaluated for latency, retrieval quality, and scalability.
 
-**Machine Learning**
-`scikit-learn` `TensorFlow` `PyTorch` `HuggingFace`
+---
 
-**Systems & Computing**
-`Linux/Unix` `Parallel Computing` `Concurrency` `Cloud`
+### Stats
 
-**Tools**
-`Git` `GitHub` `Jupyter` `PyCharm`
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-## 📂 Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
-### 🔬 Hardware-Aware ML Training Optimisation
+---
 
-* Built ML workflows in **Julia (Flux.jl)** focused on performance benchmarking
-* Explored trade-offs in **batch size, memory usage, and CPU threading**
-* Emphasised reproducibility and system-level performance analysis
+<p align="center">
+  <em>Particularly interested in roles bridging <strong>backend systems, ML pipelines, and real-world deployment</strong>, with a long-term pull toward learning systems inspired by both AI and neuroscience.</em>
+</p>
 
-
-### 🧠 Healthcare RAG System
-
-* Developed an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline
-* Processed **PDF + tabular healthcare datasets**
-* Implemented:
-
-  * Data ingestion & chunking
-  * Embeddings + semantic search
-  * LLM-based response generation
-* Evaluated **latency, retrieval quality, and scalability**
-
-
-## 📫 Contact
-
-* 💼 [LinkedIn](https://linkedin.com/in/business-myu)
-
-
-## ⚡ Note
-
-I’m particularly interested in roles/projects where I can **bridge backend systems, ML pipelines, and real-world deployment**, while continuing to grow toward a **full-stack + systems-oriented profile**, with a long-term interest in **learning systems inspired by both AI and neuroscience**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=footer" />
+</p>

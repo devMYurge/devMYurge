@@ -27,15 +27,25 @@ I also have a growing interest in **neuroscience and computational neuroscience*
 * Foundations of **computational neuroscience**
 
 ## 🛠️ Tech Stack
+
 **Languages**
+
 `Python` `SQL` `Julia` `R` *(+ currently learning `JavaScript`)*
+
 **Data & Distributed Systems**
+
 `PySpark` `Hadoop` `MongoDB` `Data Warehousing`
+
 **Machine Learning**
+
 `scikit-learn` `TensorFlow` `PyTorch` `HuggingFace`
+
 **Systems & Computing**
+
 `Linux/Unix` `Parallel Computing` `Concurrency` `Cloud`
+
 **Tools**
+
 `Git` `GitHub` `Jupyter` `PyCharm`
 
 ## 📂 Featured Projects

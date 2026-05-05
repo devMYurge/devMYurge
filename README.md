@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miguel Yu
+# 👋 Hi, I'm Miguel
 🎓 Dual Bachelor in **Philosophy, Politics, Law & Economics (PPLE)** + **Data & Business Analytics**
 📍 Madrid, Spain
 💡 Interested in **AI systems, data infrastructure, and technology governance**

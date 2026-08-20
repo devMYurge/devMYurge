@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miguel Yu (余均浩)
+# 👋 Hi, I'm Miguel Yu
 
 🎓 Dual Bachelor in **PPLE + Data & Business Analytics** @ IE University  
 📍 Barcelona / Madrid, Spain  
@@ -36,7 +36,6 @@ I approach AI from two directions simultaneously: engineering systems that work 
 
 - Replicated a **two-layer hierarchical spiking neural network** (Nature Communications, 2025) from scratch in PyTorch
 - Implemented biologically plausible **excitatory + inhibitory STDP** learning rules — no backpropagation
-- Diagnosed and fixed a critical bug in the convolutional STDP update (global averaging → patch-based `F.unfold` correlation)
 - Designed **9 ablation conditions** beyond the original paper (no top-down inhibition, no iSTDP, varying T and β)
 
 ---
@@ -113,7 +112,6 @@ I approach AI from two directions simultaneously: engineering systems that work 
 ## 📫 Contact
 - 💼 [LinkedIn](https://linkedin.com/in/business-myu)
 - 🐙 [GitHub](https://github.com/devMYurge)
-- 📧 myu.ieu2023@student.ie.edu
 
 ---
 
